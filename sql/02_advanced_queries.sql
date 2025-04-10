@@ -1,79 +1,56 @@
--- Criação do Banco de Dados
-CREATE DATABASE bio_observations;
-\c bio_observations;
-
--- Criação e Importação de Dados Brutos
-CREATE TABLE raw_data (
-    id SERIAL PRIMARY KEY,
-    observation_date DATE,
-    latitude DECIMAL(9,6),
-    longitude DECIMAL(9,6),
-    species_name VARCHAR(255),
-    duration_minutes INT,
-    comments TEXT
-);
-
-COPY raw_data FROM 'data/sample_observations.csv' CSV HEADER;
-
--- Normalização com Transação Única
-BEGIN;
-
-CREATE TABLE locations (
-    id SERIAL PRIMARY KEY,
-    latitude DECIMAL(9,6) UNIQUE,
-    longitude DECIMAL(9,6) UNIQUE
-);
-
-CREATE TABLE species (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(255) UNIQUE,
-    conservation_status VARCHAR(50) DEFAULT 'Não avaliada'
-);
-
-CREATE TABLE durations (
-    id SERIAL PRIMARY KEY,
-    minutes INT UNIQUE
-);
-
-INSERT INTO locations (latitude, longitude)
-SELECT DISTINCT latitude, longitude FROM raw_data
-ON CONFLICT (latitude, longitude) DO NOTHING;
-
-INSERT INTO species (name)
-SELECT DISTINCT species_name FROM raw_data
-ON CONFLICT (name) DO NOTHING;
-
-INSERT INTO durations (minutes)
-SELECT DISTINCT duration_minutes FROM raw_data
-ON CONFLICT (minutes) DO NOTHING;
-
--- Criação da Tabela Fato com Verificação
-CREATE TABLE sightings AS
-SELECT
-    r.observation_date,
-    loc.id AS location_id,
-    sp.id AS species_id,
-    dur.id AS duration_id,
-    r.comments
-FROM raw_data r
-JOIN locations loc ON r.latitude = loc.latitude AND r.longitude = loc.longitude
-JOIN species sp ON r.species_name = sp.name
-JOIN durations dur ON r.duration_minutes = dur.minutes;
-
--- Análise Imediata (Mostra Impacto Visual)
+-- Análise 1: Eficiência de Observação por Espécie
+WITH species_stats AS (
+    SELECT
+        s.name,
+        s.conservation_status,
+        COUNT(*) AS total_sightings,
+        AVG(d.minutes) AS avg_duration,
+        SUM(d.minutes) AS total_time
+    FROM sightings sg
+    JOIN species s ON sg.species_id = s.id
+    JOIN durations d ON sg.duration_id = d.id
+    GROUP BY s.name, s.conservation_status
+)
 SELECT 
-    'Dados Processados' AS metric,
-    COUNT(*) AS total_observations,
-    COUNT(DISTINCT species_id) AS unique_species,
-    COUNT(DISTINCT location_id) AS unique_locations
-FROM sightings;
+    name AS "Espécie",
+    conservation_status AS "Status",
+    total_sightings AS "Avistamentos",
+    ROUND(avg_duration) AS "Duração Média (min)",
+    total_time AS "Tempo Total (h)",
+    RANK() OVER (ORDER BY total_sightings DESC) AS ranking
+FROM species_stats
+WHERE conservation_status = 'Ameaçada'
+ORDER BY total_time DESC;
 
-COMMIT;
+-- Análise 2: Padrões Temporais (Sazonalidade)
+SELECT
+    EXTRACT(YEAR FROM observation_date) AS ano,
+    EXTRACT(MONTH FROM observation_date) AS mes,
+    loc.latitude,
+    loc.longitude,
+    COUNT(*) FILTER (WHERE s.conservation_status = 'Ameaçada') AS ameacadas,
+    COUNT(*) AS total_observacoes
+FROM sightings sg
+JOIN species s ON sg.species_id = s.id
+JOIN locations loc ON sg.location_id = loc.id
+WHERE observation_date BETWEEN '2020-01-01' AND '2023-12-31'
+GROUP BY ano, mes, loc.latitude, loc.longitude
+HAVING COUNT(*) > 5
+ORDER BY ano, mes, ameacadas DESC;
 
--- Índices e Limpeza
-CREATE INDEX idx_sightings_date ON sightings(observation_date);
-ALTER TABLE raw_data
-    DROP COLUMN latitude,
-    DROP COLUMN longitude,
-    DROP COLUMN species_name,
-    DROP COLUMN duration_minutes;
+-- Análise 3: Hotspots de Conservação (JOIN Complexo)
+SELECT 
+    loc.latitude,
+    loc.longitude,
+    COUNT(*) AS total_obs,
+    STRING_AGG(DISTINCT s.name, ', ') AS especies_detectadas,
+    ROUND(AVG(d.minutes)) AS tempo_medio
+FROM sightings sg
+JOIN locations loc ON sg.location_id = loc.id
+JOIN species s ON sg.species_id = s.id
+JOIN durations d ON sg.duration_id = d.id
+WHERE s.conservation_status IN ('Ameaçada', 'Vulnerável')
+GROUP BY loc.latitude, loc.longitude
+HAVING COUNT(*) > 3
+ORDER BY total_obs DESC
+LIMIT 10;
