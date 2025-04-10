@@ -1,0 +1,1001 @@
+id_observation,observation_date,latitude,longitude,species_name,duration_minutes,comments
+1,2020-01-01,-7.5276,-37.784,Elefante Asiático,179,
+2,2020-01-02,27.0429,5.0281,Tucano,8,Comportamento normal
+3,2020-01-03,13.9196,44.7535,Tucano,139,
+4,2020-01-04,5.9195,27.867,Tucano,113,Comportamento normal
+5,2020-01-05,-20.6389,36.7873,Elefante Asiático,167,Alimentação observada
+6,2020-01-06,-20.6403,19.054,Tigre de Bengala,52,
+7,2020-01-07,-26.515,23.0732,Elefante Asiático,77,
+8,2020-01-08,21.9706,41.9035,Tigre de Bengala,76,Comportamento normal
+9,2020-01-09,6.0669,-30.0398,Elefante Asiático,120,Comportamento normal
+10,2020-01-10,12.4844,-1.269,Elefante Asiático,177,
+11,2020-01-11,-28.7649,-33.4549,Tigre de Bengala,85,Comportamento normal
+12,2020-01-12,28.1946,58.5202,Tucano,85,Alimentação observada
+13,2020-01-13,19.9466,53.2871,Tigre de Bengala,117,Comportamento normal
+14,2020-01-14,-17.2597,-55.2688,Leão Africano,100,Alimentação observada
+15,2020-01-15,-19.0905,24.669,Leão Africano,76,Alimentação observada
+16,2020-01-16,-18.9957,51.0298,Tigre de Bengala,151,Alimentação observada
+17,2020-01-17,-11.7455,-38.331,Elefante Asiático,67,Alimentação observada
+18,2020-01-18,1.4854,8.1534,Leão Africano,42,Alimentação observada
+19,2020-01-19,-4.0833,49.8586,Leão Africano,71,Comportamento normal
+20,2020-01-20,-12.5263,-55.9265,Elefante Asiático,73,Alimentação observada
+21,2020-01-21,6.7112,23.6904,Elefante Asiático,17,Comportamento normal
+22,2020-01-22,-21.6304,-24.3181,Tucano,179,Alimentação observada
+23,2020-01-23,-12.4713,50.9275,Elefante Asiático,35,
+24,2020-01-24,-8.0183,56.527,Tigre de Bengala,118,Alimentação observada
+25,2020-01-25,-2.6358,53.312,Tigre de Bengala,26,
+26,2020-01-26,17.1106,-3.0943,Tucano,97,Alimentação observada
+27,2020-01-27,-18.0196,43.4451,Leão Africano,175,Alimentação observada
+28,2020-01-28,0.8541,41.3459,Leão Africano,71,Alimentação observada
+29,2020-01-29,5.5449,-21.7079,Elefante Asiático,58,
+30,2020-01-30,-27.213,39.4699,Tigre de Bengala,142,
+31,2020-01-31,6.4527,-55.5591,Leão Africano,46,Alimentação observada
+32,2020-02-01,-19.7686,11.5524,Tucano,68,Comportamento normal
+33,2020-02-02,-26.0969,-32.3989,Tucano,130,Alimentação observada
+34,2020-02-03,26.9331,-45.532,Tigre de Bengala,25,
+35,2020-02-04,27.9379,-50.7656,Tucano,173,Alimentação observada
+36,2020-02-05,18.5038,23.5547,Tucano,156,
+37,2020-02-06,-11.7232,-19.215,Tigre de Bengala,39,
+38,2020-02-07,-24.1397,26.972,Elefante Asiático,34,
+39,2020-02-08,11.054,-52.1572,Elefante Asiático,61,Alimentação observada
+40,2020-02-09,-3.5909,-22.1652,Tucano,51,
+41,2020-02-10,-22.6777,4.739,Elefante Asiático,167,
+42,2020-02-11,-0.2894,34.8868,Elefante Asiático,23,Alimentação observada
+43,2020-02-12,-27.9367,-21.7497,Tucano,118,
+44,2020-02-13,24.5592,15.107,Elefante Asiático,12,Alimentação observada
+45,2020-02-14,-14.4732,46.3173,Tucano,30,
+46,2020-02-15,9.7513,13.9036,Leão Africano,117,Comportamento normal
+47,2020-02-16,-11.2973,-32.0449,Tigre de Bengala,75,Comportamento normal
+48,2020-02-17,1.2041,-57.0719,Tigre de Bengala,34,
+49,2020-02-18,2.8026,44.4119,Elefante Asiático,139,Comportamento normal
+50,2020-02-19,-18.9087,-57.4477,Elefante Asiático,71,Alimentação observada
+51,2020-02-20,28.1751,44.9642,Elefante Asiático,69,Comportamento normal
+52,2020-02-21,16.508,3.4725,Tigre de Bengala,40,
+53,2020-02-22,26.3699,52.6881,Leão Africano,29,
+54,2020-02-23,23.6896,35.854,Leão Africano,41,Alimentação observada
+55,2020-02-24,5.874,59.7521,Tigre de Bengala,5,
+56,2020-02-25,25.3125,-17.9146,Leão Africano,147,Alimentação observada
+57,2020-02-26,-24.6904,32.0626,Tigre de Bengala,41,Comportamento normal
+58,2020-02-27,-18.241,-11.7683,Leão Africano,145,Comportamento normal
+59,2020-02-28,-27.2864,-2.4149,Tucano,140,Alimentação observada
+60,2020-02-29,-10.4802,15.3007,Tucano,137,Alimentação observada
+61,2020-03-01,-6.6794,44.8413,Tigre de Bengala,132,
+62,2020-03-02,-13.7191,58.09,Leão Africano,131,Comportamento normal
+63,2020-03-03,19.7243,32.1928,Elefante Asiático,5,Alimentação observada
+64,2020-03-04,-8.5948,-9.868,Leão Africano,168,Comportamento normal
+65,2020-03-05,-13.1439,-9.4372,Tucano,39,Alimentação observada
+66,2020-03-06,2.5618,28.5099,Tucano,108,Comportamento normal
+67,2020-03-07,-21.5445,-31.3467,Leão Africano,27,
+68,2020-03-08,18.1318,-46.7431,Leão Africano,13,Comportamento normal
+69,2020-03-09,-25.527,-17.4453,Elefante Asiático,38,Comportamento normal
+70,2020-03-10,29.2132,-25.5313,Elefante Asiático,178,Comportamento normal
+71,2020-03-11,16.3347,-24.443,Leão Africano,132,Comportamento normal
+72,2020-03-12,-18.0771,-31.9671,Leão Africano,8,Comportamento normal
+73,2020-03-13,-29.6687,-54.9488,Leão Africano,162,
+74,2020-03-14,18.9277,-57.8551,Leão Africano,106,Alimentação observada
+75,2020-03-15,12.4114,58.5267,Tigre de Bengala,79,Comportamento normal
+76,2020-03-16,13.7404,-8.6672,Leão Africano,103,
+77,2020-03-17,16.2762,-13.8808,Elefante Asiático,76,Comportamento normal
+78,2020-03-18,-25.5573,21.5577,Tucano,7,Comportamento normal
+79,2020-03-19,-8.4921,-33.8095,Tigre de Bengala,146,Alimentação observada
+80,2020-03-20,-23.0479,53.9953,Leão Africano,177,Comportamento normal
+81,2020-03-21,21.7862,34.3614,Tucano,38,
+82,2020-03-22,7.3979,-49.2707,Tigre de Bengala,49,
+83,2020-03-23,-10.1461,-9.8903,Tucano,65,Alimentação observada
+84,2020-03-24,-26.1865,45.4942,Leão Africano,87,Comportamento normal
+85,2020-03-25,-11.3411,53.3678,Leão Africano,127,
+86,2020-03-26,-10.489,-3.9118,Elefante Asiático,106,Comportamento normal
+87,2020-03-27,13.7764,13.6094,Leão Africano,20,Comportamento normal
+88,2020-03-28,8.2534,-39.9559,Leão Africano,70,Comportamento normal
+89,2020-03-29,23.2328,58.9402,Tigre de Bengala,172,Alimentação observada
+90,2020-03-30,-1.6671,-32.1994,Elefante Asiático,149,Comportamento normal
+91,2020-03-31,-22.8243,53.1278,Tigre de Bengala,123,
+92,2020-04-01,12.7947,17.9576,Tucano,166,Comportamento normal
+93,2020-04-02,15.6471,12.9284,Leão Africano,128,
+94,2020-04-03,3.6766,1.5226,Tucano,148,Comportamento normal
+95,2020-04-04,16.258,-32.3196,Tigre de Bengala,106,
+96,2020-04-05,-0.3723,-38.8166,Leão Africano,70,
+97,2020-04-06,1.364,-33.5417,Leão Africano,17,Comportamento normal
+98,2020-04-07,-4.3475,-37.6274,Tigre de Bengala,115,Comportamento normal
+99,2020-04-08,-28.4749,33.5501,Tigre de Bengala,163,
+100,2020-04-09,-23.5265,-17.985,Tigre de Bengala,38,Alimentação observada
+101,2020-04-10,-28.1142,-53.0589,Tigre de Bengala,43,Comportamento normal
+102,2020-04-11,8.1846,56.2923,Tigre de Bengala,140,Alimentação observada
+103,2020-04-12,-11.1386,46.0543,Leão Africano,124,Comportamento normal
+104,2020-04-13,0.5142,51.3303,Tigre de Bengala,130,Comportamento normal
+105,2020-04-14,24.454,59.3889,Leão Africano,59,Comportamento normal
+106,2020-04-15,-15.0425,-39.1326,Leão Africano,31,Comportamento normal
+107,2020-04-16,-5.377,-12.451,Tigre de Bengala,122,Alimentação observada
+108,2020-04-17,15.3331,30.9886,Tigre de Bengala,57,Comportamento normal
+109,2020-04-18,-16.2721,23.5225,Elefante Asiático,43,
+110,2020-04-19,-25.3812,-41.5325,Leão Africano,69,
+111,2020-04-20,-12.6149,37.9,Tigre de Bengala,149,Alimentação observada
+112,2020-04-21,-20.3267,-33.0671,Tigre de Bengala,162,Comportamento normal
+113,2020-04-22,25.7819,-33.1419,Tigre de Bengala,17,
+114,2020-04-23,18.4872,4.4369,Elefante Asiático,25,Alimentação observada
+115,2020-04-24,8.0042,11.1528,Elefante Asiático,151,Comportamento normal
+116,2020-04-25,22.2876,9.6103,Tucano,57,
+117,2020-04-26,18.2203,-49.0216,Leão Africano,23,
+118,2020-04-27,-18.8058,45.2953,Tucano,61,Alimentação observada
+119,2020-04-28,23.5535,-28.128,Tigre de Bengala,29,Comportamento normal
+120,2020-04-29,2.3605,-44.4582,Elefante Asiático,35,Comportamento normal
+121,2020-04-30,18.4464,46.6498,Elefante Asiático,85,
+122,2020-05-01,23.7655,54.6782,Tucano,27,
+123,2020-05-02,-10.9198,43.4553,Elefante Asiático,36,
+124,2020-05-03,-23.3969,37.1419,Tigre de Bengala,78,Comportamento normal
+125,2020-05-04,-16.3239,18.629,Elefante Asiático,14,Alimentação observada
+126,2020-05-05,-4.3735,6.1029,Tucano,58,Alimentação observada
+127,2020-05-06,19.0809,-49.5616,Tigre de Bengala,56,Comportamento normal
+128,2020-05-07,21.6438,-10.9856,Tucano,152,Alimentação observada
+129,2020-05-08,-29.5829,-15.2774,Elefante Asiático,164,
+130,2020-05-09,0.6448,-28.8295,Tucano,118,Alimentação observada
+131,2020-05-10,-4.9553,26.8104,Tucano,18,Alimentação observada
+132,2020-05-11,-16.6735,-0.4949,Leão Africano,160,Alimentação observada
+133,2020-05-12,-22.8081,-50.2745,Elefante Asiático,114,
+134,2020-05-13,-9.7431,-33.578,Elefante Asiático,57,Comportamento normal
+135,2020-05-14,26.5746,21.9911,Tucano,156,
+136,2020-05-15,-10.6078,-50.8643,Leão Africano,83,Comportamento normal
+137,2020-05-16,1.1274,42.1448,Elefante Asiático,26,Comportamento normal
+138,2020-05-17,12.1811,-0.5824,Tigre de Bengala,34,Comportamento normal
+139,2020-05-18,-8.1822,-2.3296,Tucano,8,Alimentação observada
+140,2020-05-19,28.3069,11.0889,Elefante Asiático,63,Alimentação observada
+141,2020-05-20,27.7468,38.9617,Tigre de Bengala,12,Comportamento normal
+142,2020-05-21,-14.8931,-18.2629,Elefante Asiático,16,Comportamento normal
+143,2020-05-22,-0.1651,21.3619,Tigre de Bengala,123,Alimentação observada
+144,2020-05-23,-11.9473,7.8878,Tucano,163,
+145,2020-05-24,-12.9096,-27.9566,Elefante Asiático,38,Comportamento normal
+146,2020-05-25,-27.7868,45.4356,Elefante Asiático,86,
+147,2020-05-26,6.5739,35.6911,Leão Africano,102,Alimentação observada
+148,2020-05-27,0.1607,19.0142,Tucano,131,Comportamento normal
+149,2020-05-28,-26.9113,42.0698,Tigre de Bengala,79,
+150,2020-05-29,-13.2812,44.0753,Elefante Asiático,109,
+151,2020-05-30,24.496,25.0036,Elefante Asiático,53,
+152,2020-05-31,-15.6263,40.4416,Tigre de Bengala,83,Alimentação observada
+153,2020-06-01,-21.3063,23.6966,Tucano,97,Alimentação observada
+154,2020-06-02,-0.6328,21.6169,Leão Africano,158,
+155,2020-06-03,29.139,14.2334,Leão Africano,22,
+156,2020-06-04,-15.4767,30.326,Elefante Asiático,100,Alimentação observada
+157,2020-06-05,10.3281,-40.9674,Tigre de Bengala,42,
+158,2020-06-06,15.6972,45.7045,Elefante Asiático,91,
+159,2020-06-07,-15.7417,44.6212,Tigre de Bengala,92,Alimentação observada
+160,2020-06-08,13.693,-56.4903,Leão Africano,54,
+161,2020-06-09,-7.933,39.098,Tucano,12,
+162,2020-06-10,7.9383,-44.5356,Tigre de Bengala,173,
+163,2020-06-11,8.0118,-19.7857,Leão Africano,138,Alimentação observada
+164,2020-06-12,2.1465,29.221,Elefante Asiático,73,
+165,2020-06-13,-24.5826,-40.7088,Tigre de Bengala,176,Alimentação observada
+166,2020-06-14,20.1181,38.156,Tucano,125,Alimentação observada
+167,2020-06-15,-10.7532,39.8561,Elefante Asiático,68,Comportamento normal
+168,2020-06-16,-18.8089,0.8961,Elefante Asiático,161,Comportamento normal
+169,2020-06-17,-27.5535,-59.2337,Leão Africano,160,
+170,2020-06-18,5.4536,-25.5554,Tigre de Bengala,143,Alimentação observada
+171,2020-06-19,10.6539,14.0312,Elefante Asiático,125,Comportamento normal
+172,2020-06-20,-29.0047,57.7423,Tucano,69,
+173,2020-06-21,0.7256,15.8176,Tigre de Bengala,111,Comportamento normal
+174,2020-06-22,-16.4103,-28.8236,Tucano,151,Comportamento normal
+175,2020-06-23,8.7104,16.0807,Elefante Asiático,141,Alimentação observada
+176,2020-06-24,-19.538,4.7982,Tucano,159,Alimentação observada
+177,2020-06-25,11.4563,33.5814,Leão Africano,166,Comportamento normal
+178,2020-06-26,-6.7959,-47.1623,Tucano,176,Comportamento normal
+179,2020-06-27,26.2038,31.3233,Tigre de Bengala,104,Alimentação observada
+180,2020-06-28,-21.7487,4.952,Tucano,86,
+181,2020-06-29,-9.536,55.559,Tucano,147,Alimentação observada
+182,2020-06-30,-23.1916,-18.9753,Leão Africano,55,Comportamento normal
+183,2020-07-01,25.4816,15.9146,Tucano,145,
+184,2020-07-02,22.6404,51.8434,Tucano,87,Comportamento normal
+185,2020-07-03,-14.5235,-47.6988,Elefante Asiático,116,
+186,2020-07-04,9.599,52.4674,Elefante Asiático,60,Comportamento normal
+187,2020-07-05,19.0333,22.5463,Tigre de Bengala,169,
+188,2020-07-06,3.312,-51.8596,Elefante Asiático,149,
+189,2020-07-07,1.779,-23.8844,Elefante Asiático,161,Comportamento normal
+190,2020-07-08,-15.4889,24.9807,Elefante Asiático,165,
+191,2020-07-09,-24.4138,-51.9179,Elefante Asiático,64,Alimentação observada
+192,2020-07-10,23.8329,9.8605,Leão Africano,124,Comportamento normal
+193,2020-07-11,24.0251,-18.494,Elefante Asiático,142,Alimentação observada
+194,2020-07-12,7.9861,14.5099,Leão Africano,179,Comportamento normal
+195,2020-07-13,-9.6582,-54.511,Leão Africano,27,
+196,2020-07-14,-9.0474,44.5844,Elefante Asiático,153,
+197,2020-07-15,13.5573,56.8187,Tucano,17,
+198,2020-07-16,23.8266,56.2653,Leão Africano,105,Comportamento normal
+199,2020-07-17,23.2252,29.9582,Tucano,165,Alimentação observada
+200,2020-07-18,16.7925,-44.3897,Tucano,28,Alimentação observada
+201,2020-07-19,8.5219,30.9916,Elefante Asiático,112,Comportamento normal
+202,2020-07-20,-24.9516,-57.0496,Tigre de Bengala,15,Comportamento normal
+203,2020-07-21,-20.3023,-57.3452,Elefante Asiático,21,Alimentação observada
+204,2020-07-22,23.9133,-21.1668,Tigre de Bengala,179,Alimentação observada
+205,2020-07-23,6.3857,-1.3628,Tigre de Bengala,29,Alimentação observada
+206,2020-07-24,-29.4482,32.4489,Elefante Asiático,98,Alimentação observada
+207,2020-07-25,-23.9117,21.9954,Elefante Asiático,25,Comportamento normal
+208,2020-07-26,9.8101,-6.4917,Tigre de Bengala,88,Comportamento normal
+209,2020-07-27,-29.6963,-27.1648,Elefante Asiático,144,
+210,2020-07-28,-20.3515,59.6549,Tigre de Bengala,41,Alimentação observada
+211,2020-07-29,2.924,-8.8582,Tucano,46,
+212,2020-07-30,11.5137,-5.8336,Elefante Asiático,149,Comportamento normal
+213,2020-07-31,9.1177,-40.3651,Tucano,105,Comportamento normal
+214,2020-08-01,-16.5438,35.3771,Leão Africano,52,
+215,2020-08-02,12.7308,23.2419,Tucano,107,Alimentação observada
+216,2020-08-03,-15.7651,-33.5076,Tucano,32,Alimentação observada
+217,2020-08-04,-10.476,-50.1143,Tigre de Bengala,45,Alimentação observada
+218,2020-08-05,14.7895,21.6599,Tucano,103,Alimentação observada
+219,2020-08-06,8.978,18.5413,Elefante Asiático,51,
+220,2020-08-07,20.9534,-27.2089,Tigre de Bengala,150,
+221,2020-08-08,9.4568,54.1036,Leão Africano,109,Comportamento normal
+222,2020-08-09,4.0985,-41.8731,Elefante Asiático,128,Alimentação observada
+223,2020-08-10,-24.3795,-8.1198,Leão Africano,17,Alimentação observada
+224,2020-08-11,-7.9371,53.2339,Tucano,145,Alimentação observada
+225,2020-08-12,-14.0879,-9.6327,Elefante Asiático,104,
+226,2020-08-13,-15.3606,16.6231,Elefante Asiático,35,Alimentação observada
+227,2020-08-14,28.3806,-12.2887,Leão Africano,134,
+228,2020-08-15,-6.4141,-27.0942,Elefante Asiático,20,Alimentação observada
+229,2020-08-16,23.5228,58.0773,Elefante Asiático,141,Alimentação observada
+230,2020-08-17,7.8683,-10.8799,Elefante Asiático,77,Comportamento normal
+231,2020-08-18,17.6887,47.2919,Tucano,170,Alimentação observada
+232,2020-08-19,0.1582,-32.4054,Leão Africano,58,Alimentação observada
+233,2020-08-20,4.6142,-34.4274,Elefante Asiático,104,Comportamento normal
+234,2020-08-21,-0.4489,-56.2639,Tigre de Bengala,113,
+235,2020-08-22,-18.2854,18.2,Tigre de Bengala,91,
+236,2020-08-23,13.3471,-15.7768,Tigre de Bengala,177,Alimentação observada
+237,2020-08-24,-13.1537,43.723,Tigre de Bengala,166,
+238,2020-08-25,-28.541,-3.2148,Tucano,141,Alimentação observada
+239,2020-08-26,8.7283,56.1832,Elefante Asiático,12,Comportamento normal
+240,2020-08-27,-19.3734,-37.7369,Leão Africano,11,Comportamento normal
+241,2020-08-28,26.4275,44.2348,Elefante Asiático,40,Alimentação observada
+242,2020-08-29,27.2357,33.1916,Tucano,22,Comportamento normal
+243,2020-08-30,24.8919,32.5106,Tigre de Bengala,7,Comportamento normal
+244,2020-08-31,-7.7905,41.374,Tucano,32,Alimentação observada
+245,2020-09-01,-29.0726,31.3229,Elefante Asiático,74,Alimentação observada
+246,2020-09-02,25.6991,15.1464,Leão Africano,176,Comportamento normal
+247,2020-09-03,-4.309,-44.2506,Tucano,153,
+248,2020-09-04,27.9993,-56.0969,Leão Africano,32,
+249,2020-09-05,27.8172,50.5017,Tucano,58,Alimentação observada
+250,2020-09-06,21.1806,13.998,Leão Africano,69,Alimentação observada
+251,2020-09-07,-12.3331,35.5845,Leão Africano,104,
+252,2020-09-08,-6.8941,-2.2173,Tigre de Bengala,25,Comportamento normal
+253,2020-09-09,21.0682,-45.923,Leão Africano,17,
+254,2020-09-10,-10.9847,-44.9777,Tigre de Bengala,61,
+255,2020-09-11,-19.8304,22.2678,Elefante Asiático,53,
+256,2020-09-12,3.4081,-8.3633,Elefante Asiático,122,
+257,2020-09-13,26.1693,-35.937,Tigre de Bengala,58,Alimentação observada
+258,2020-09-14,11.7618,-1.0087,Tigre de Bengala,142,Alimentação observada
+259,2020-09-15,4.2037,-52.2949,Tucano,57,Comportamento normal
+260,2020-09-16,-24.1694,9.8366,Tucano,48,Comportamento normal
+261,2020-09-17,6.9004,-27.7208,Tucano,51,Comportamento normal
+262,2020-09-18,29.4032,35.7071,Elefante Asiático,57,Comportamento normal
+263,2020-09-19,-21.595,-22.7566,Tucano,78,
+264,2020-09-20,1.0998,-5.3736,Leão Africano,50,Alimentação observada
+265,2020-09-21,22.6424,-58.6055,Leão Africano,17,Alimentação observada
+266,2020-09-22,14.4461,-51.3064,Tucano,169,Comportamento normal
+267,2020-09-23,11.8209,-12.9008,Leão Africano,106,Comportamento normal
+268,2020-09-24,12.149,-2.4073,Elefante Asiático,28,
+269,2020-09-25,-8.4305,12.0025,Leão Africano,6,
+270,2020-09-26,-12.3845,-25.0005,Elefante Asiático,85,Comportamento normal
+271,2020-09-27,18.5617,23.3978,Tigre de Bengala,104,Alimentação observada
+272,2020-09-28,18.6068,43.2147,Tigre de Bengala,146,Alimentação observada
+273,2020-09-29,22.0243,33.5821,Tigre de Bengala,142,Alimentação observada
+274,2020-09-30,24.7944,-55.2457,Tigre de Bengala,167,Comportamento normal
+275,2020-10-01,0.6805,-2.3392,Leão Africano,157,Alimentação observada
+276,2020-10-02,0.091,-47.4084,Tucano,135,
+277,2020-10-03,17.8977,-30.9546,Leão Africano,115,
+278,2020-10-04,8.9978,58.3995,Elefante Asiático,106,Comportamento normal
+279,2020-10-05,12.118,-42.9005,Leão Africano,21,
+280,2020-10-06,17.7476,-0.1334,Leão Africano,16,Comportamento normal
+281,2020-10-07,23.4003,14.1787,Elefante Asiático,120,Alimentação observada
+282,2020-10-08,-9.7203,24.2958,Tigre de Bengala,28,Alimentação observada
+283,2020-10-09,-7.465,7.1578,Tigre de Bengala,33,Alimentação observada
+284,2020-10-10,-24.3611,-58.8275,Tigre de Bengala,175,
+285,2020-10-11,4.6968,-20.8246,Tucano,157,Comportamento normal
+286,2020-10-12,-27.8435,2.1254,Elefante Asiático,126,Alimentação observada
+287,2020-10-13,-2.0641,-49.456,Elefante Asiático,94,Comportamento normal
+288,2020-10-14,2.5587,-17.9248,Leão Africano,69,Alimentação observada
+289,2020-10-15,-12.8075,-56.0156,Tucano,88,
+290,2020-10-16,5.45,-50.5706,Tigre de Bengala,123,
+291,2020-10-17,-28.17,-12.3692,Tucano,160,Comportamento normal
+292,2020-10-18,-27.7591,-44.0741,Elefante Asiático,20,
+293,2020-10-19,19.356,8.1049,Elefante Asiático,179,
+294,2020-10-20,-8.3886,22.7358,Leão Africano,108,Comportamento normal
+295,2020-10-21,-22.3764,36.0704,Leão Africano,96,Alimentação observada
+296,2020-10-22,1.3346,-35.982,Elefante Asiático,31,
+297,2020-10-23,16.1996,-39.9021,Tigre de Bengala,174,Comportamento normal
+298,2020-10-24,-17.0507,-47.4519,Tigre de Bengala,179,
+299,2020-10-25,7.3734,16.3716,Tucano,166,
+300,2020-10-26,-24.8792,24.7771,Elefante Asiático,169,
+301,2020-10-27,-26.8991,-56.2097,Elefante Asiático,138,
+302,2020-10-28,1.8813,52.3455,Tigre de Bengala,139,Comportamento normal
+303,2020-10-29,2.4381,-53.7634,Tigre de Bengala,157,Comportamento normal
+304,2020-10-30,8.2458,4.9556,Elefante Asiático,37,Comportamento normal
+305,2020-10-31,13.5655,25.0873,Leão Africano,59,
+306,2020-11-01,28.5511,44.5163,Elefante Asiático,11,
+307,2020-11-02,0.978,25.6904,Elefante Asiático,61,
+308,2020-11-03,-10.6226,36.2074,Tigre de Bengala,130,Comportamento normal
+309,2020-11-04,17.7112,-19.266,Tigre de Bengala,16,
+310,2020-11-05,-13.7501,37.779,Leão Africano,20,Alimentação observada
+311,2020-11-06,-3.6617,-50.3862,Leão Africano,47,
+312,2020-11-07,-25.2926,47.378,Tucano,121,Alimentação observada
+313,2020-11-08,-28.479,5.7111,Elefante Asiático,139,
+314,2020-11-09,27.7589,38.0757,Tigre de Bengala,115,Comportamento normal
+315,2020-11-10,20.1588,-5.7218,Leão Africano,55,
+316,2020-11-11,11.7585,17.2293,Tucano,164,Alimentação observada
+317,2020-11-12,-5.4628,3.1683,Tucano,79,Alimentação observada
+318,2020-11-13,-19.6023,27.7907,Tigre de Bengala,12,
+319,2020-11-14,-20.6138,-50.2044,Tigre de Bengala,49,Alimentação observada
+320,2020-11-15,-14.9854,-52.7577,Tucano,63,Alimentação observada
+321,2020-11-16,2.9536,-30.3476,Leão Africano,136,Comportamento normal
+322,2020-11-17,12.8758,-40.8546,Tucano,108,
+323,2020-11-18,9.6118,44.614,Elefante Asiático,161,
+324,2020-11-19,-13.204,-33.6943,Elefante Asiático,161,
+325,2020-11-20,27.2919,57.1038,Tigre de Bengala,102,Alimentação observada
+326,2020-11-21,14.2738,-19.5725,Leão Africano,160,
+327,2020-11-22,3.2612,-38.1459,Leão Africano,83,
+328,2020-11-23,6.7032,34.7638,Elefante Asiático,128,Comportamento normal
+329,2020-11-24,-4.824,19.0449,Tucano,176,Comportamento normal
+330,2020-11-25,-15.1361,-0.2165,Tigre de Bengala,8,Comportamento normal
+331,2020-11-26,-8.6416,6.6436,Tucano,94,Alimentação observada
+332,2020-11-27,15.4708,26.3042,Tucano,108,
+333,2020-11-28,-29.1364,-32.5854,Tucano,141,Comportamento normal
+334,2020-11-29,-23.0356,59.5601,Leão Africano,123,Comportamento normal
+335,2020-11-30,-27.2398,56.9752,Elefante Asiático,137,Comportamento normal
+336,2020-12-01,-27.5563,18.0391,Leão Africano,60,
+337,2020-12-02,21.3276,-36.0549,Elefante Asiático,100,
+338,2020-12-03,12.2195,21.6274,Tigre de Bengala,79,
+339,2020-12-04,-1.5496,-51.3362,Tigre de Bengala,147,Alimentação observada
+340,2020-12-05,-24.13,-56.3217,Tucano,36,Alimentação observada
+341,2020-12-06,-0.503,-29.0781,Elefante Asiático,32,Comportamento normal
+342,2020-12-07,-1.5917,-4.4852,Elefante Asiático,26,
+343,2020-12-08,-19.6079,44.1927,Elefante Asiático,21,Comportamento normal
+344,2020-12-09,-3.9689,27.2603,Tucano,63,
+345,2020-12-10,-6.0897,29.1248,Tucano,94,
+346,2020-12-11,6.951,-8.9408,Tigre de Bengala,110,
+347,2020-12-12,8.1056,-18.4878,Leão Africano,30,Alimentação observada
+348,2020-12-13,-27.2818,-15.4753,Elefante Asiático,29,Alimentação observada
+349,2020-12-14,-7.5232,58.5179,Elefante Asiático,142,
+350,2020-12-15,7.5516,-55.1869,Leão Africano,49,Comportamento normal
+351,2020-12-16,0.1882,44.0438,Elefante Asiático,87,
+352,2020-12-17,21.3894,9.441,Tucano,15,
+353,2020-12-18,9.5216,-7.3661,Tucano,108,Comportamento normal
+354,2020-12-19,-20.2239,27.0309,Elefante Asiático,72,
+355,2020-12-20,-25.7659,-1.5997,Tucano,99,Comportamento normal
+356,2020-12-21,8.5452,44.8108,Tucano,160,Alimentação observada
+357,2020-12-22,-28.4093,48.0842,Elefante Asiático,69,Alimentação observada
+358,2020-12-23,5.1465,-9.3935,Tigre de Bengala,53,Comportamento normal
+359,2020-12-24,26.4138,-26.7807,Leão Africano,179,Alimentação observada
+360,2020-12-25,4.5285,11.082,Tucano,56,Alimentação observada
+361,2020-12-26,-6.7098,49.4836,Tigre de Bengala,106,Comportamento normal
+362,2020-12-27,8.5973,-34.7205,Tucano,61,Alimentação observada
+363,2020-12-28,-2.5048,14.756,Tucano,51,
+364,2020-12-29,2.737,15.7872,Leão Africano,163,
+365,2020-12-30,26.4879,27.9736,Tucano,178,Comportamento normal
+366,2020-12-31,-6.8338,-44.2119,Leão Africano,30,Alimentação observada
+367,2021-01-01,27.6714,25.899,Leão Africano,118,
+368,2021-01-02,24.321,49.0839,Leão Africano,9,
+369,2021-01-03,-18.2525,-38.438,Tigre de Bengala,88,Alimentação observada
+370,2021-01-04,-25.8383,-31.4948,Elefante Asiático,56,Alimentação observada
+371,2021-01-05,-23.9533,56.5674,Tigre de Bengala,109,
+372,2021-01-06,-28.9067,-38.2828,Elefante Asiático,58,
+373,2021-01-07,-24.3334,42.5262,Elefante Asiático,165,Comportamento normal
+374,2021-01-08,10.9804,-0.9267,Leão Africano,170,Comportamento normal
+375,2021-01-09,-25.7287,-30.3323,Tucano,159,
+376,2021-01-10,-10.8615,44.49,Leão Africano,19,Comportamento normal
+377,2021-01-11,20.6925,-6.5634,Tucano,65,
+378,2021-01-12,-28.6037,1.7781,Elefante Asiático,126,
+379,2021-01-13,18.8681,-16.892,Leão Africano,25,Comportamento normal
+380,2021-01-14,-13.0887,11.1541,Tucano,50,Comportamento normal
+381,2021-01-15,-22.9101,-40.3771,Tigre de Bengala,138,Alimentação observada
+382,2021-01-16,11.8042,-13.0702,Tucano,42,Alimentação observada
+383,2021-01-17,7.7366,56.3295,Leão Africano,66,Alimentação observada
+384,2021-01-18,22.6483,-29.024,Tigre de Bengala,90,
+385,2021-01-19,14.1043,18.8084,Tucano,82,Comportamento normal
+386,2021-01-20,18.2089,-20.9772,Tucano,50,
+387,2021-01-21,-13.0779,32.8168,Tucano,145,Comportamento normal
+388,2021-01-22,-19.3536,-44.2952,Tucano,7,
+389,2021-01-23,15.0369,56.3785,Tucano,10,Alimentação observada
+390,2021-01-24,18.4101,-5.5453,Tigre de Bengala,97,Alimentação observada
+391,2021-01-25,29.4303,-31.6739,Elefante Asiático,12,Alimentação observada
+392,2021-01-26,-5.2429,-51.1804,Tigre de Bengala,176,
+393,2021-01-27,-7.6789,-39.6291,Tigre de Bengala,112,Comportamento normal
+394,2021-01-28,16.5848,2.3729,Tigre de Bengala,165,Comportamento normal
+395,2021-01-29,-9.5518,-19.5596,Elefante Asiático,79,Alimentação observada
+396,2021-01-30,25.8454,39.466,Leão Africano,81,Alimentação observada
+397,2021-01-31,21.5048,-8.2935,Elefante Asiático,54,Alimentação observada
+398,2021-02-01,-4.2604,-30.1543,Tigre de Bengala,15,Alimentação observada
+399,2021-02-02,15.0523,14.0574,Tucano,99,Comportamento normal
+400,2021-02-03,15.2726,24.8133,Tucano,160,
+401,2021-02-04,-23.8126,-39.955,Tigre de Bengala,74,
+402,2021-02-05,24.1532,-39.8857,Tucano,173,
+403,2021-02-06,0.3151,-55.5994,Tigre de Bengala,20,
+404,2021-02-07,19.5874,28.3682,Tucano,72,Alimentação observada
+405,2021-02-08,-10.797,19.6565,Elefante Asiático,103,Alimentação observada
+406,2021-02-09,23.7314,-3.0443,Leão Africano,52,Alimentação observada
+407,2021-02-10,-6.6479,41.3005,Leão Africano,68,
+408,2021-02-11,-29.3497,36.6804,Elefante Asiático,94,Alimentação observada
+409,2021-02-12,24.3229,10.2425,Elefante Asiático,80,Alimentação observada
+410,2021-02-13,-24.5228,44.1926,Tigre de Bengala,143,Comportamento normal
+411,2021-02-14,-10.8412,-35.2991,Tigre de Bengala,105,Comportamento normal
+412,2021-02-15,27.0037,-46.5696,Tigre de Bengala,93,Alimentação observada
+413,2021-02-16,27.0364,-27.63,Tucano,22,Comportamento normal
+414,2021-02-17,4.4063,-53.1496,Tigre de Bengala,23,Comportamento normal
+415,2021-02-18,7.9102,3.7403,Elefante Asiático,59,Alimentação observada
+416,2021-02-19,-3.0933,52.3927,Leão Africano,106,Alimentação observada
+417,2021-02-20,-12.4074,-55.2788,Tucano,122,Alimentação observada
+418,2021-02-21,-10.2801,-45.3468,Tigre de Bengala,158,Alimentação observada
+419,2021-02-22,10.3511,-5.7361,Tucano,138,
+420,2021-02-23,15.1425,52.065,Tucano,8,
+421,2021-02-24,17.4947,-22.0613,Tigre de Bengala,112,Alimentação observada
+422,2021-02-25,17.3771,0.8682,Tucano,119,Comportamento normal
+423,2021-02-26,-24.5276,-55.0113,Leão Africano,33,Alimentação observada
+424,2021-02-27,-0.3348,-42.1988,Elefante Asiático,63,Alimentação observada
+425,2021-02-28,-26.5465,58.3956,Elefante Asiático,129,Comportamento normal
+426,2021-03-01,2.9717,55.8142,Leão Africano,102,
+427,2021-03-02,-3.5082,-59.4072,Tucano,21,Alimentação observada
+428,2021-03-03,23.2623,54.2174,Tigre de Bengala,111,Alimentação observada
+429,2021-03-04,-8.9451,16.6944,Tucano,47,
+430,2021-03-05,-22.976,44.1502,Leão Africano,84,
+431,2021-03-06,-21.4205,-5.4312,Tucano,166,Comportamento normal
+432,2021-03-07,15.6906,1.8715,Elefante Asiático,12,
+433,2021-03-08,7.0931,-1.3384,Tucano,145,
+434,2021-03-09,-23.9326,20.0237,Leão Africano,110,
+435,2021-03-10,-24.9536,-43.2418,Elefante Asiático,12,Comportamento normal
+436,2021-03-11,12.0581,-56.4032,Tucano,100,
+437,2021-03-12,-25.6342,-23.0484,Tucano,98,
+438,2021-03-13,19.3116,24.5617,Elefante Asiático,69,Comportamento normal
+439,2021-03-14,12.3745,-35.7776,Tigre de Bengala,175,
+440,2021-03-15,-25.1191,20.8119,Elefante Asiático,43,
+441,2021-03-16,-24.9097,56.3894,Tigre de Bengala,85,Comportamento normal
+442,2021-03-17,29.1984,-48.7319,Leão Africano,88,Alimentação observada
+443,2021-03-18,-7.5438,20.7123,Leão Africano,92,Comportamento normal
+444,2021-03-19,-7.7615,-6.75,Elefante Asiático,90,
+445,2021-03-20,18.768,44.1771,Elefante Asiático,97,
+446,2021-03-21,26.8349,-38.742,Leão Africano,90,
+447,2021-03-22,29.1601,23.1151,Tigre de Bengala,48,Comportamento normal
+448,2021-03-23,15.2027,40.5738,Leão Africano,141,
+449,2021-03-24,-7.4244,53.3537,Elefante Asiático,169,
+450,2021-03-25,-24.99,21.9898,Leão Africano,78,Comportamento normal
+451,2021-03-26,16.6288,-0.339,Elefante Asiático,40,Alimentação observada
+452,2021-03-27,3.5043,14.1417,Elefante Asiático,105,Alimentação observada
+453,2021-03-28,-4.5467,44.2686,Leão Africano,160,
+454,2021-03-29,24.3813,8.4732,Tigre de Bengala,174,Comportamento normal
+455,2021-03-30,-23.3282,-56.3536,Tucano,175,
+456,2021-03-31,-0.4425,51.7138,Leão Africano,174,Comportamento normal
+457,2021-04-01,-29.3188,22.7432,Tucano,108,Comportamento normal
+458,2021-04-02,-1.8804,21.1816,Leão Africano,70,Alimentação observada
+459,2021-04-03,-26.6218,-34.119,Tucano,59,Alimentação observada
+460,2021-04-04,-22.8709,19.0663,Tigre de Bengala,95,Comportamento normal
+461,2021-04-05,-22.9484,-12.7363,Tigre de Bengala,26,
+462,2021-04-06,8.9526,18.148,Leão Africano,105,Alimentação observada
+463,2021-04-07,14.7627,-47.2088,Elefante Asiático,159,
+464,2021-04-08,5.0021,18.9414,Tucano,125,Alimentação observada
+465,2021-04-09,27.7304,59.9296,Elefante Asiático,97,Alimentação observada
+466,2021-04-10,-7.5078,-54.2146,Elefante Asiático,112,
+467,2021-04-11,-12.8573,57.2609,Elefante Asiático,145,Alimentação observada
+468,2021-04-12,22.1159,-11.171,Tigre de Bengala,177,Alimentação observada
+469,2021-04-13,-16.5842,44.4904,Leão Africano,14,
+470,2021-04-14,27.7934,33.8863,Leão Africano,13,Alimentação observada
+471,2021-04-15,-29.2707,8.042,Tigre de Bengala,159,Alimentação observada
+472,2021-04-16,28.1927,28.6139,Tigre de Bengala,38,Alimentação observada
+473,2021-04-17,-27.4104,45.4219,Leão Africano,133,
+474,2021-04-18,23.4686,-11.5032,Elefante Asiático,164,Comportamento normal
+475,2021-04-19,1.6621,-20.756,Tucano,93,
+476,2021-04-20,29.5779,20.1112,Tucano,97,Comportamento normal
+477,2021-04-21,-25.5722,36.9415,Tucano,75,Alimentação observada
+478,2021-04-22,3.2313,31.4742,Elefante Asiático,71,Comportamento normal
+479,2021-04-23,28.1582,35.7376,Leão Africano,152,
+480,2021-04-24,1.3859,-7.73,Tigre de Bengala,121,
+481,2021-04-25,7.7639,38.1401,Leão Africano,98,Alimentação observada
+482,2021-04-26,11.7449,-45.5749,Elefante Asiático,167,Comportamento normal
+483,2021-04-27,-2.7275,5.3387,Tigre de Bengala,103,Alimentação observada
+484,2021-04-28,7.6535,-59.309,Elefante Asiático,117,Alimentação observada
+485,2021-04-29,5.0589,-21.0497,Tucano,107,
+486,2021-04-30,24.0695,-16.0246,Tucano,95,Comportamento normal
+487,2021-05-01,-27.2732,-12.4593,Elefante Asiático,94,Comportamento normal
+488,2021-05-02,-13.1422,23.4561,Tigre de Bengala,21,Comportamento normal
+489,2021-05-03,27.0247,-13.373,Tigre de Bengala,22,Comportamento normal
+490,2021-05-04,23.4158,-6.1568,Leão Africano,177,Alimentação observada
+491,2021-05-05,-2.6606,-31.4947,Tucano,120,Alimentação observada
+492,2021-05-06,7.208,-15.2098,Leão Africano,97,
+493,2021-05-07,-13.3571,-32.7276,Leão Africano,95,Alimentação observada
+494,2021-05-08,-18.7127,-51.2165,Elefante Asiático,86,Alimentação observada
+495,2021-05-09,-2.1781,12.4138,Elefante Asiático,72,
+496,2021-05-10,-8.7989,20.1855,Leão Africano,118,
+497,2021-05-11,5.0194,14.3388,Tucano,5,
+498,2021-05-12,-25.3359,-4.3807,Elefante Asiático,62,Alimentação observada
+499,2021-05-13,28.4637,-14.4257,Leão Africano,158,Alimentação observada
+500,2021-05-14,29.1726,43.6,Leão Africano,113,
+501,2021-05-15,11.8897,2.2898,Leão Africano,152,
+502,2021-05-16,2.1658,-2.4982,Leão Africano,120,
+503,2021-05-17,-11.4283,-56.923,Leão Africano,91,Alimentação observada
+504,2021-05-18,18.8277,-19.0503,Leão Africano,14,Alimentação observada
+505,2021-05-19,11.0839,-14.3765,Elefante Asiático,63,Comportamento normal
+506,2021-05-20,-20.243,-12.1413,Tucano,45,Alimentação observada
+507,2021-05-21,24.6556,9.6207,Leão Africano,109,Alimentação observada
+508,2021-05-22,19.3522,4.0323,Tigre de Bengala,137,Alimentação observada
+509,2021-05-23,26.988,12.9486,Elefante Asiático,126,
+510,2021-05-24,13.5432,31.786,Elefante Asiático,149,Alimentação observada
+511,2021-05-25,6.8049,37.5583,Leão Africano,26,
+512,2021-05-26,-4.9054,26.1748,Elefante Asiático,102,Comportamento normal
+513,2021-05-27,25.9637,54.6628,Leão Africano,173,Comportamento normal
+514,2021-05-28,21.9638,-57.8121,Tucano,72,
+515,2021-05-29,-27.2869,-36.5066,Tucano,143,
+516,2021-05-30,-28.418,-59.0925,Elefante Asiático,60,
+517,2021-05-31,-7.4122,17.697,Elefante Asiático,153,Alimentação observada
+518,2021-06-01,18.6332,47.7637,Tigre de Bengala,103,Comportamento normal
+519,2021-06-02,29.2366,-30.7821,Elefante Asiático,80,
+520,2021-06-03,-20.975,51.2441,Tigre de Bengala,30,Alimentação observada
+521,2021-06-04,5.6478,-52.7679,Tucano,119,Comportamento normal
+522,2021-06-05,-7.1465,52.1323,Tucano,151,Alimentação observada
+523,2021-06-06,28.1949,-17.8053,Leão Africano,113,Comportamento normal
+524,2021-06-07,20.5271,-47.8295,Tucano,51,Alimentação observada
+525,2021-06-08,20.2997,-1.6954,Tigre de Bengala,75,Comportamento normal
+526,2021-06-09,-1.8784,-29.1868,Elefante Asiático,158,Comportamento normal
+527,2021-06-10,-5.1108,-25.8153,Leão Africano,44,Alimentação observada
+528,2021-06-11,-13.5956,-23.1252,Tigre de Bengala,137,
+529,2021-06-12,-26.6175,36.3631,Elefante Asiático,153,Comportamento normal
+530,2021-06-13,21.8833,4.6994,Leão Africano,136,
+531,2021-06-14,18.7741,-22.6431,Tucano,27,Alimentação observada
+532,2021-06-15,29.9831,13.2401,Tigre de Bengala,110,
+533,2021-06-16,29.7982,25.9381,Elefante Asiático,88,
+534,2021-06-17,3.3259,-27.2851,Leão Africano,147,
+535,2021-06-18,16.1392,-10.3741,Leão Africano,120,
+536,2021-06-19,26.6859,-45.3737,Tucano,113,
+537,2021-06-20,20.9788,-38.2621,Elefante Asiático,140,Comportamento normal
+538,2021-06-21,-15.1591,21.7341,Tucano,45,Comportamento normal
+539,2021-06-22,-2.9674,-38.2274,Tucano,116,Comportamento normal
+540,2021-06-23,-22.2504,3.0196,Elefante Asiático,151,Alimentação observada
+541,2021-06-24,27.2431,25.0856,Elefante Asiático,116,
+542,2021-06-25,6.3705,-47.1748,Elefante Asiático,107,Comportamento normal
+543,2021-06-26,-16.2814,8.0775,Tigre de Bengala,50,Alimentação observada
+544,2021-06-27,10.302,-29.2125,Elefante Asiático,160,Comportamento normal
+545,2021-06-28,7.0877,55.5512,Leão Africano,72,Comportamento normal
+546,2021-06-29,-8.5102,-1.9745,Tucano,126,
+547,2021-06-30,-23.1865,36.7191,Tigre de Bengala,19,Alimentação observada
+548,2021-07-01,10.2944,6.0272,Elefante Asiático,169,
+549,2021-07-02,1.2185,-54.7905,Tigre de Bengala,133,
+550,2021-07-03,16.3391,15.9782,Elefante Asiático,115,Comportamento normal
+551,2021-07-04,1.2098,54.1684,Tigre de Bengala,28,
+552,2021-07-05,21.1309,12.1934,Tucano,31,Alimentação observada
+553,2021-07-06,3.1144,38.3027,Tucano,44,
+554,2021-07-07,3.6563,46.1048,Leão Africano,168,
+555,2021-07-08,22.5992,-32.6304,Leão Africano,28,
+556,2021-07-09,-5.791,-34.5546,Elefante Asiático,28,Comportamento normal
+557,2021-07-10,-21.9591,13.3177,Tucano,8,Alimentação observada
+558,2021-07-11,-28.273,-10.6766,Tigre de Bengala,71,Comportamento normal
+559,2021-07-12,15.3082,40.7834,Tigre de Bengala,38,Comportamento normal
+560,2021-07-13,7.2186,48.0028,Tigre de Bengala,120,Comportamento normal
+561,2021-07-14,12.2448,-17.5894,Leão Africano,27,Comportamento normal
+562,2021-07-15,-17.2222,-31.5755,Tigre de Bengala,113,Comportamento normal
+563,2021-07-16,-21.8177,33.6631,Leão Africano,73,Alimentação observada
+564,2021-07-17,-29.1273,-27.0233,Leão Africano,99,
+565,2021-07-18,-8.9647,38.7137,Elefante Asiático,66,Comportamento normal
+566,2021-07-19,5.3951,-9.1514,Tigre de Bengala,173,Comportamento normal
+567,2021-07-20,-6.4654,20.106,Tigre de Bengala,61,Alimentação observada
+568,2021-07-21,-3.7515,-48.5358,Tucano,58,Alimentação observada
+569,2021-07-22,24.2495,14.8631,Elefante Asiático,74,
+570,2021-07-23,-9.1047,-5.7879,Tucano,105,Alimentação observada
+571,2021-07-24,0.8394,10.393,Elefante Asiático,61,
+572,2021-07-25,17.0192,-39.8383,Tigre de Bengala,142,Comportamento normal
+573,2021-07-26,-6.2074,28.4248,Leão Africano,172,Comportamento normal
+574,2021-07-27,7.3252,43.5356,Leão Africano,139,
+575,2021-07-28,21.7418,-33.9912,Leão Africano,107,Alimentação observada
+576,2021-07-29,26.9712,-48.5143,Leão Africano,170,
+577,2021-07-30,-21.1756,-57.1634,Leão Africano,89,Alimentação observada
+578,2021-07-31,25.5953,17.0366,Tucano,65,Comportamento normal
+579,2021-08-01,-0.473,12.8513,Elefante Asiático,7,Alimentação observada
+580,2021-08-02,-14.5053,5.6037,Tigre de Bengala,132,
+581,2021-08-03,-2.4519,-32.1663,Tucano,90,
+582,2021-08-04,28.802,-13.0913,Elefante Asiático,51,Comportamento normal
+583,2021-08-05,-0.4429,11.3372,Leão Africano,80,Alimentação observada
+584,2021-08-06,-10.2749,-0.388,Elefante Asiático,42,Alimentação observada
+585,2021-08-07,8.0041,58.5343,Elefante Asiático,168,Alimentação observada
+586,2021-08-08,-15.5913,-43.6272,Leão Africano,173,Comportamento normal
+587,2021-08-09,-25.4482,23.4173,Leão Africano,145,Alimentação observada
+588,2021-08-10,-22.2672,-11.4817,Leão Africano,91,
+589,2021-08-11,-22.3172,-8.616,Tigre de Bengala,62,Alimentação observada
+590,2021-08-12,-20.8858,26.1117,Leão Africano,54,Comportamento normal
+591,2021-08-13,-21.6704,23.0923,Tigre de Bengala,34,Alimentação observada
+592,2021-08-14,8.4525,58.9507,Leão Africano,105,Alimentação observada
+593,2021-08-15,-19.0872,-44.5927,Tigre de Bengala,29,
+594,2021-08-16,-9.26,-47.5068,Elefante Asiático,116,Alimentação observada
+595,2021-08-17,23.8073,26.9207,Tucano,159,
+596,2021-08-18,-1.5623,9.4064,Elefante Asiático,130,
+597,2021-08-19,10.0535,-27.1007,Elefante Asiático,127,Comportamento normal
+598,2021-08-20,-19.6608,-50.4697,Leão Africano,51,
+599,2021-08-21,-18.4627,-49.721,Tigre de Bengala,122,
+600,2021-08-22,-27.5479,47.3029,Tucano,43,Comportamento normal
+601,2021-08-23,-19.8639,-36.9759,Leão Africano,20,
+602,2021-08-24,-13.2846,-21.1954,Leão Africano,26,Comportamento normal
+603,2021-08-25,-19.3794,-32.8012,Leão Africano,58,Alimentação observada
+604,2021-08-26,-24.6778,-17.4004,Elefante Asiático,153,Comportamento normal
+605,2021-08-27,-22.7618,-51.6691,Tigre de Bengala,20,
+606,2021-08-28,-2.3533,2.2872,Tigre de Bengala,63,Comportamento normal
+607,2021-08-29,-17.62,-51.8865,Tucano,35,
+608,2021-08-30,-8.1438,36.0428,Tigre de Bengala,174,Alimentação observada
+609,2021-08-31,0.205,-31.9546,Tigre de Bengala,36,Comportamento normal
+610,2021-09-01,11.4237,4.8014,Leão Africano,166,Alimentação observada
+611,2021-09-02,-27.6413,45.6095,Leão Africano,13,
+612,2021-09-03,17.9646,18.1053,Elefante Asiático,143,
+613,2021-09-04,7.674,3.9549,Leão Africano,14,Alimentação observada
+614,2021-09-05,-25.0945,-21.0799,Leão Africano,21,Comportamento normal
+615,2021-09-06,22.4147,-20.0398,Leão Africano,72,Comportamento normal
+616,2021-09-07,25.2523,20.3384,Leão Africano,52,
+617,2021-09-08,-26.3353,59.2967,Elefante Asiático,115,Alimentação observada
+618,2021-09-09,-13.3873,19.4207,Leão Africano,157,Alimentação observada
+619,2021-09-10,18.3721,6.934,Tucano,127,Comportamento normal
+620,2021-09-11,14.8956,27.6781,Tucano,153,Comportamento normal
+621,2021-09-12,-18.9287,-4.1753,Tucano,105,Comportamento normal
+622,2021-09-13,-17.439,-52.7829,Tucano,106,Alimentação observada
+623,2021-09-14,-7.7717,7.4756,Leão Africano,69,Comportamento normal
+624,2021-09-15,-0.9286,54.915,Tucano,55,Comportamento normal
+625,2021-09-16,7.0953,-38.9636,Leão Africano,40,
+626,2021-09-17,-7.8652,22.8006,Elefante Asiático,85,Comportamento normal
+627,2021-09-18,-2.2479,-35.888,Tucano,131,Comportamento normal
+628,2021-09-19,14.8483,4.2993,Tigre de Bengala,92,Alimentação observada
+629,2021-09-20,-27.799,-48.3988,Tucano,108,Alimentação observada
+630,2021-09-21,-14.8538,-5.9555,Tucano,19,
+631,2021-09-22,12.801,30.7396,Leão Africano,100,Comportamento normal
+632,2021-09-23,23.7124,-18.2914,Tucano,171,
+633,2021-09-24,0.7006,19.7894,Tigre de Bengala,127,Alimentação observada
+634,2021-09-25,1.9268,35.454,Leão Africano,5,
+635,2021-09-26,-23.5697,51.2613,Leão Africano,155,Alimentação observada
+636,2021-09-27,-3.1553,-31.843,Elefante Asiático,126,
+637,2021-09-28,1.957,-12.0821,Elefante Asiático,171,
+638,2021-09-29,-15.4518,-41.7101,Tucano,130,Comportamento normal
+639,2021-09-30,-13.8454,59.098,Elefante Asiático,61,
+640,2021-10-01,-7.363,51.2401,Elefante Asiático,85,Comportamento normal
+641,2021-10-02,-28.7957,4.7949,Elefante Asiático,166,Comportamento normal
+642,2021-10-03,-10.6753,41.044,Leão Africano,173,Comportamento normal
+643,2021-10-04,-17.3131,2.515,Leão Africano,77,Comportamento normal
+644,2021-10-05,-10.3502,14.8303,Leão Africano,145,
+645,2021-10-06,-22.8143,-49.3051,Elefante Asiático,74,Alimentação observada
+646,2021-10-07,23.4316,30.6325,Leão Africano,10,Alimentação observada
+647,2021-10-08,5.6155,-44.6744,Elefante Asiático,88,Alimentação observada
+648,2021-10-09,10.7461,39.1281,Leão Africano,56,
+649,2021-10-10,17.3503,33.8434,Leão Africano,7,Comportamento normal
+650,2021-10-11,-0.0935,25.0494,Tigre de Bengala,85,Alimentação observada
+651,2021-10-12,-24.7848,-55.6608,Tucano,67,
+652,2021-10-13,2.2264,-23.6246,Elefante Asiático,53,Comportamento normal
+653,2021-10-14,5.2105,-28.4265,Tigre de Bengala,80,Alimentação observada
+654,2021-10-15,14.7264,-16.7836,Leão Africano,116,Comportamento normal
+655,2021-10-16,-4.1004,-49.4829,Elefante Asiático,179,Alimentação observada
+656,2021-10-17,-22.3452,52.4349,Leão Africano,113,Alimentação observada
+657,2021-10-18,-12.9734,6.4563,Tucano,69,Alimentação observada
+658,2021-10-19,-8.2151,-23.3371,Tigre de Bengala,85,Comportamento normal
+659,2021-10-20,8.755,-12.3622,Tucano,19,
+660,2021-10-21,4.2467,-6.3357,Tigre de Bengala,104,Comportamento normal
+661,2021-10-22,-8.6342,12.0713,Leão Africano,36,Alimentação observada
+662,2021-10-23,29.1909,1.8815,Tucano,100,Comportamento normal
+663,2021-10-24,6.3465,50.327,Tucano,132,
+664,2021-10-25,-15.7664,-0.3644,Leão Africano,150,Comportamento normal
+665,2021-10-26,-23.8931,59.059,Tucano,117,
+666,2021-10-27,-20.8285,42.171,Elefante Asiático,87,
+667,2021-10-28,-15.2425,-34.9787,Tigre de Bengala,47,Comportamento normal
+668,2021-10-29,-20.3591,51.6714,Tigre de Bengala,120,Alimentação observada
+669,2021-10-30,-18.806,-46.036,Tigre de Bengala,167,
+670,2021-10-31,-12.8943,38.094,Elefante Asiático,82,Comportamento normal
+671,2021-11-01,-19.5976,-14.3252,Tigre de Bengala,62,
+672,2021-11-02,23.8059,45.3569,Leão Africano,37,Alimentação observada
+673,2021-11-03,-25.186,44.1668,Tucano,18,Comportamento normal
+674,2021-11-04,1.4707,36.711,Elefante Asiático,166,Comportamento normal
+675,2021-11-05,-5.3762,34.8037,Tigre de Bengala,136,Comportamento normal
+676,2021-11-06,28.9427,-23.4385,Leão Africano,63,Alimentação observada
+677,2021-11-07,-23.2777,-50.2897,Tucano,161,
+678,2021-11-08,-6.1287,-11.6424,Tucano,87,Comportamento normal
+679,2021-11-09,28.1682,-39.1771,Elefante Asiático,138,
+680,2021-11-10,21.9304,23.3941,Elefante Asiático,125,
+681,2021-11-11,19.0243,-18.468,Elefante Asiático,172,Alimentação observada
+682,2021-11-12,-14.5258,57.0732,Leão Africano,87,Comportamento normal
+683,2021-11-13,-19.7467,16.9166,Leão Africano,31,
+684,2021-11-14,10.1186,38.6977,Elefante Asiático,84,Comportamento normal
+685,2021-11-15,25.7626,-44.097,Tigre de Bengala,138,Comportamento normal
+686,2021-11-16,3.4058,43.4417,Tucano,17,Alimentação observada
+687,2021-11-17,4.2968,50.7309,Tucano,68,Comportamento normal
+688,2021-11-18,-13.2013,-1.5526,Leão Africano,151,Comportamento normal
+689,2021-11-19,16.1696,12.7504,Tucano,84,
+690,2021-11-20,-18.7774,31.7772,Tigre de Bengala,127,Alimentação observada
+691,2021-11-21,-10.5792,-39.0194,Tucano,47,Comportamento normal
+692,2021-11-22,-4.4738,0.3079,Leão Africano,93,
+693,2021-11-23,0.4566,-12.1604,Leão Africano,152,Alimentação observada
+694,2021-11-24,-15.4554,-42.4351,Tigre de Bengala,99,Alimentação observada
+695,2021-11-25,-23.1098,-15.8959,Tigre de Bengala,176,
+696,2021-11-26,6.6372,-51.8193,Tucano,155,
+697,2021-11-27,-12.6822,-56.9026,Tucano,6,
+698,2021-11-28,4.8743,-43.78,Leão Africano,124,
+699,2021-11-29,-20.7382,55.5738,Tigre de Bengala,26,
+700,2021-11-30,-1.1316,5.9435,Tigre de Bengala,119,Comportamento normal
+701,2021-12-01,1.9554,55.8987,Tigre de Bengala,61,Comportamento normal
+702,2021-12-02,-26.8906,-8.1003,Tucano,76,Alimentação observada
+703,2021-12-03,-9.8037,-22.5821,Tigre de Bengala,11,Comportamento normal
+704,2021-12-04,-21.9351,0.737,Leão Africano,123,Comportamento normal
+705,2021-12-05,-26.1975,-7.2586,Leão Africano,118,Comportamento normal
+706,2021-12-06,29.3976,-47.3202,Tucano,20,
+707,2021-12-07,-10.6588,16.8992,Elefante Asiático,87,Alimentação observada
+708,2021-12-08,18.5925,-34.0754,Tucano,76,Alimentação observada
+709,2021-12-09,-14.7216,14.3506,Elefante Asiático,128,Alimentação observada
+710,2021-12-10,10.8902,18.0241,Tigre de Bengala,117,Alimentação observada
+711,2021-12-11,15.6137,-41.757,Tucano,16,Comportamento normal
+712,2021-12-12,5.7383,-52.638,Leão Africano,130,Comportamento normal
+713,2021-12-13,-1.7054,33.6914,Tigre de Bengala,57,
+714,2021-12-14,-5.2895,-4.8239,Leão Africano,79,Alimentação observada
+715,2021-12-15,-9.0679,-53.0203,Tigre de Bengala,137,Comportamento normal
+716,2021-12-16,25.7717,59.384,Tucano,31,Comportamento normal
+717,2021-12-17,19.8372,-53.0663,Elefante Asiático,144,
+718,2021-12-18,27.9016,23.4042,Tigre de Bengala,149,
+719,2021-12-19,-22.5422,58.0415,Elefante Asiático,138,
+720,2021-12-20,13.852,-31.2984,Tigre de Bengala,101,Comportamento normal
+721,2021-12-21,26.3004,-42.9301,Leão Africano,9,Comportamento normal
+722,2021-12-22,-19.126,-45.4338,Leão Africano,61,
+723,2021-12-23,-26.0102,-23.607,Tigre de Bengala,160,Alimentação observada
+724,2021-12-24,14.4672,-47.8745,Elefante Asiático,82,
+725,2021-12-25,4.4684,23.0594,Tucano,73,
+726,2021-12-26,20.5097,-52.525,Tucano,122,
+727,2021-12-27,-21.6137,1.1307,Leão Africano,124,
+728,2021-12-28,17.716,59.6036,Tucano,63,Comportamento normal
+729,2021-12-29,-17.9024,37.6764,Leão Africano,37,Alimentação observada
+730,2021-12-30,-20.1806,13.8263,Tucano,66,
+731,2021-12-31,-20.1441,-23.2496,Tigre de Bengala,54,Alimentação observada
+732,2022-01-01,18.8745,14.8675,Leão Africano,116,Alimentação observada
+733,2022-01-02,9.9118,3.245,Leão Africano,23,Alimentação observada
+734,2022-01-03,1.3839,-8.87,Tigre de Bengala,127,
+735,2022-01-04,-8.4702,-44.3148,Leão Africano,51,Comportamento normal
+736,2022-01-05,22.632,46.3925,Tucano,171,
+737,2022-01-06,-6.4533,-6.0258,Tucano,37,Alimentação observada
+738,2022-01-07,18.996,-36.6453,Leão Africano,145,Alimentação observada
+739,2022-01-08,-3.6519,-15.8689,Tucano,88,Comportamento normal
+740,2022-01-09,-7.3833,-10.3044,Elefante Asiático,139,
+741,2022-01-10,-2.2392,39.3045,Leão Africano,83,Alimentação observada
+742,2022-01-11,-11.9173,28.0337,Tigre de Bengala,18,Comportamento normal
+743,2022-01-12,14.8566,32.3166,Elefante Asiático,151,Alimentação observada
+744,2022-01-13,0.1632,-58.6762,Leão Africano,132,Comportamento normal
+745,2022-01-14,-16.0672,-10.0615,Tigre de Bengala,58,Comportamento normal
+746,2022-01-15,23.9745,-2.2387,Tucano,152,
+747,2022-01-16,-6.9665,-57.6969,Tigre de Bengala,33,Alimentação observada
+748,2022-01-17,2.6132,-28.8224,Elefante Asiático,28,
+749,2022-01-18,24.3883,31.2348,Tucano,86,Alimentação observada
+750,2022-01-19,7.4543,-43.5468,Leão Africano,67,
+751,2022-01-20,-22.9861,4.2372,Tucano,109,Alimentação observada
+752,2022-01-21,26.3899,-34.1758,Leão Africano,61,
+753,2022-01-22,7.6625,-58.5455,Leão Africano,140,Comportamento normal
+754,2022-01-23,-9.9057,-31.0558,Tigre de Bengala,66,Alimentação observada
+755,2022-01-24,-21.6437,57.1049,Tigre de Bengala,161,Alimentação observada
+756,2022-01-25,17.6415,36.1845,Tigre de Bengala,21,Comportamento normal
+757,2022-01-26,7.2044,55.1492,Elefante Asiático,70,
+758,2022-01-27,2.0077,-1.4575,Elefante Asiático,10,Alimentação observada
+759,2022-01-28,23.6336,-46.8317,Tigre de Bengala,62,Alimentação observada
+760,2022-01-29,17.3158,5.7551,Elefante Asiático,73,
+761,2022-01-30,-20.8995,-5.4747,Tucano,160,Comportamento normal
+762,2022-01-31,-11.2967,41.3228,Tucano,66,
+763,2022-02-01,-15.0907,-48.2301,Elefante Asiático,173,
+764,2022-02-02,14.6368,-1.4111,Elefante Asiático,86,
+765,2022-02-03,-27.9881,-41.9942,Tucano,173,Alimentação observada
+766,2022-02-04,4.1934,-21.0389,Leão Africano,75,Comportamento normal
+767,2022-02-05,15.7475,28.4828,Tucano,135,Comportamento normal
+768,2022-02-06,22.6059,-2.8778,Tucano,14,
+769,2022-02-07,-9.4751,-14.8934,Elefante Asiático,102,Alimentação observada
+770,2022-02-08,19.2754,-12.6628,Tucano,93,
+771,2022-02-09,-23.3621,-4.8664,Elefante Asiático,39,Alimentação observada
+772,2022-02-10,20.7871,34.202,Elefante Asiático,6,Alimentação observada
+773,2022-02-11,-22.3507,47.0502,Tigre de Bengala,128,Alimentação observada
+774,2022-02-12,-6.1628,54.6402,Tucano,28,Alimentação observada
+775,2022-02-13,17.8377,34.4284,Leão Africano,78,Comportamento normal
+776,2022-02-14,-21.005,-22.1512,Tigre de Bengala,170,Alimentação observada
+777,2022-02-15,-16.2449,22.5762,Elefante Asiático,26,Alimentação observada
+778,2022-02-16,13.3352,-7.4876,Elefante Asiático,158,
+779,2022-02-17,13.2022,-29.4395,Leão Africano,175,
+780,2022-02-18,8.4689,40.9046,Elefante Asiático,43,Comportamento normal
+781,2022-02-19,11.6369,-55.3888,Tucano,161,
+782,2022-02-20,2.5635,48.2114,Tigre de Bengala,24,Alimentação observada
+783,2022-02-21,-14.8921,-4.6227,Elefante Asiático,45,
+784,2022-02-22,-9.2582,16.4642,Elefante Asiático,152,Comportamento normal
+785,2022-02-23,-19.1041,19.1225,Leão Africano,112,
+786,2022-02-24,24.507,47.4141,Tucano,151,
+787,2022-02-25,5.0035,16.4004,Elefante Asiático,88,Comportamento normal
+788,2022-02-26,-5.9489,13.672,Leão Africano,115,Comportamento normal
+789,2022-02-27,-2.2797,-52.0018,Elefante Asiático,70,Alimentação observada
+790,2022-02-28,26.837,2.209,Leão Africano,162,
+791,2022-03-01,-20.7989,-41.9797,Leão Africano,57,Alimentação observada
+792,2022-03-02,5.1738,28.4921,Tucano,38,
+793,2022-03-03,0.3533,1.4666,Elefante Asiático,154,
+794,2022-03-04,6.6873,21.6273,Tucano,71,Alimentação observada
+795,2022-03-05,-28.9134,-54.9993,Leão Africano,138,
+796,2022-03-06,22.3274,-49.825,Tigre de Bengala,31,
+797,2022-03-07,25.9271,25.9588,Elefante Asiático,14,
+798,2022-03-08,3.908,-51.3499,Tigre de Bengala,77,Comportamento normal
+799,2022-03-09,11.799,-51.4492,Elefante Asiático,100,Alimentação observada
+800,2022-03-10,25.35,-58.547,Tucano,52,Comportamento normal
+801,2022-03-11,12.4343,54.7802,Tucano,74,Alimentação observada
+802,2022-03-12,-20.8477,28.501,Tucano,104,Alimentação observada
+803,2022-03-13,4.5773,-17.6098,Tucano,63,
+804,2022-03-14,6.4029,-24.4157,Tucano,6,Alimentação observada
+805,2022-03-15,-4.5522,-18.0356,Tigre de Bengala,161,Comportamento normal
+806,2022-03-16,14.1867,32.9584,Tucano,69,Comportamento normal
+807,2022-03-17,26.062,19.3645,Leão Africano,87,Comportamento normal
+808,2022-03-18,25.5341,-37.7765,Leão Africano,158,Alimentação observada
+809,2022-03-19,-2.9496,-39.1069,Tigre de Bengala,14,Comportamento normal
+810,2022-03-20,-23.2057,-48.1925,Elefante Asiático,57,Alimentação observada
+811,2022-03-21,29.0905,19.2363,Leão Africano,83,Comportamento normal
+812,2022-03-22,20.3339,31.7247,Elefante Asiático,63,Comportamento normal
+813,2022-03-23,-22.5202,-28.1944,Tigre de Bengala,154,Alimentação observada
+814,2022-03-24,25.2505,-57.4866,Elefante Asiático,52,Comportamento normal
+815,2022-03-25,22.1938,-50.1394,Elefante Asiático,153,
+816,2022-03-26,1.1303,56.1432,Elefante Asiático,127,Alimentação observada
+817,2022-03-27,5.4765,-24.5466,Elefante Asiático,26,Alimentação observada
+818,2022-03-28,-6.0598,32.3068,Tigre de Bengala,104,Alimentação observada
+819,2022-03-29,-26.7143,14.9596,Leão Africano,102,
+820,2022-03-30,-9.8882,-14.1672,Tucano,162,Alimentação observada
+821,2022-03-31,18.1712,-35.3175,Elefante Asiático,29,Comportamento normal
+822,2022-04-01,-29.7221,-45.4336,Leão Africano,32,Comportamento normal
+823,2022-04-02,-9.99,13.8016,Leão Africano,117,Comportamento normal
+824,2022-04-03,-6.1099,32.9561,Tigre de Bengala,49,Alimentação observada
+825,2022-04-04,2.2437,17.2685,Leão Africano,72,Comportamento normal
+826,2022-04-05,25.1913,3.6363,Tigre de Bengala,11,Alimentação observada
+827,2022-04-06,-9.2192,-54.9659,Elefante Asiático,53,Comportamento normal
+828,2022-04-07,-9.1828,56.2187,Elefante Asiático,141,
+829,2022-04-08,14.2501,35.8457,Tucano,168,
+830,2022-04-09,-2.8669,-24.8614,Tucano,87,
+831,2022-04-10,-16.5237,57.5964,Tucano,133,
+832,2022-04-11,-2.8536,12.2258,Leão Africano,142,Alimentação observada
+833,2022-04-12,-21.5486,9.8907,Elefante Asiático,168,Comportamento normal
+834,2022-04-13,-19.4168,29.7688,Tigre de Bengala,77,
+835,2022-04-14,-0.0979,37.4124,Tucano,50,Alimentação observada
+836,2022-04-15,-4.8645,18.7774,Tigre de Bengala,110,
+837,2022-04-16,24.8908,-44.6285,Tigre de Bengala,164,
+838,2022-04-17,-8.2564,-19.4079,Tucano,36,Alimentação observada
+839,2022-04-18,4.8353,51.37,Elefante Asiático,10,Alimentação observada
+840,2022-04-19,7.9359,-33.0461,Tucano,170,Comportamento normal
+841,2022-04-20,-29.2143,-15.34,Tigre de Bengala,149,Comportamento normal
+842,2022-04-21,9.8122,-8.1508,Tucano,78,
+843,2022-04-22,-19.3178,-7.2714,Tigre de Bengala,118,
+844,2022-04-23,27.6642,13.5527,Tigre de Bengala,31,Comportamento normal
+845,2022-04-24,-21.0802,53.1691,Tucano,58,Comportamento normal
+846,2022-04-25,-5.1226,-31.1169,Leão Africano,167,Alimentação observada
+847,2022-04-26,-24.879,-45.4198,Tucano,89,Comportamento normal
+848,2022-04-27,29.8125,-36.3035,Leão Africano,131,Comportamento normal
+849,2022-04-28,0.1317,46.431,Tigre de Bengala,157,
+850,2022-04-29,5.7231,17.4973,Tigre de Bengala,160,Comportamento normal
+851,2022-04-30,-25.9754,-25.6912,Leão Africano,115,
+852,2022-05-01,14.9976,37.9136,Tigre de Bengala,19,Comportamento normal
+853,2022-05-02,-17.4057,43.3644,Leão Africano,136,Alimentação observada
+854,2022-05-03,23.8833,41.5817,Leão Africano,97,Comportamento normal
+855,2022-05-04,-17.6916,50.2712,Tigre de Bengala,127,Comportamento normal
+856,2022-05-05,-18.5587,-29.7311,Elefante Asiático,77,Comportamento normal
+857,2022-05-06,-27.807,30.605,Leão Africano,159,
+858,2022-05-07,-1.676,-4.7353,Tucano,158,Alimentação observada
+859,2022-05-08,3.8905,41.0398,Tucano,151,Comportamento normal
+860,2022-05-09,-26.0575,27.4189,Tigre de Bengala,96,
+861,2022-05-10,16.5317,33.1737,Elefante Asiático,21,Alimentação observada
+862,2022-05-11,-2.8027,18.7394,Tigre de Bengala,47,
+863,2022-05-12,1.4634,-38.7085,Elefante Asiático,125,
+864,2022-05-13,-3.5542,5.4032,Leão Africano,45,Alimentação observada
+865,2022-05-14,-5.9542,58.1604,Leão Africano,174,Comportamento normal
+866,2022-05-15,3.5784,52.4866,Leão Africano,172,
+867,2022-05-16,-20.6856,-54.8192,Leão Africano,43,
+868,2022-05-17,-19.0843,-40.2222,Tucano,117,Comportamento normal
+869,2022-05-18,21.7071,-44.1925,Tucano,155,Comportamento normal
+870,2022-05-19,26.7669,27.1176,Tigre de Bengala,115,Alimentação observada
+871,2022-05-20,-7.6014,38.1342,Elefante Asiático,51,Alimentação observada
+872,2022-05-21,-13.7553,-34.3786,Leão Africano,67,Alimentação observada
+873,2022-05-22,8.64,0.7023,Leão Africano,114,Comportamento normal
+874,2022-05-23,-5.4759,40.8844,Elefante Asiático,73,
+875,2022-05-24,-28.4768,27.9362,Elefante Asiático,47,
+876,2022-05-25,-20.6308,5.0685,Tigre de Bengala,38,Alimentação observada
+877,2022-05-26,12.9583,10.8417,Elefante Asiático,44,Comportamento normal
+878,2022-05-27,9.5354,1.0033,Leão Africano,65,
+879,2022-05-28,-28.3742,-24.2942,Leão Africano,66,Alimentação observada
+880,2022-05-29,-16.6817,7.8026,Leão Africano,62,
+881,2022-05-30,-16.1355,22.6662,Leão Africano,165,
+882,2022-05-31,10.3136,44.7987,Leão Africano,79,Comportamento normal
+883,2022-06-01,-28.8174,16.355,Tigre de Bengala,20,Comportamento normal
+884,2022-06-02,-23.7535,31.3346,Leão Africano,86,
+885,2022-06-03,17.995,-40.7914,Tigre de Bengala,98,Alimentação observada
+886,2022-06-04,-19.2873,-4.6131,Leão Africano,52,Comportamento normal
+887,2022-06-05,9.1648,-58.8802,Tucano,142,
+888,2022-06-06,-15.709,-30.3985,Tucano,86,Comportamento normal
+889,2022-06-07,-24.0335,27.1754,Tucano,42,Comportamento normal
+890,2022-06-08,-15.4097,59.0172,Tucano,131,Comportamento normal
+891,2022-06-09,13.336,-48.0986,Tigre de Bengala,23,
+892,2022-06-10,21.3418,-11.8207,Tigre de Bengala,168,Alimentação observada
+893,2022-06-11,19.8132,36.0085,Elefante Asiático,67,Alimentação observada
+894,2022-06-12,-6.169,-35.5157,Leão Africano,81,Alimentação observada
+895,2022-06-13,10.0851,6.6102,Tucano,178,Comportamento normal
+896,2022-06-14,-17.7009,27.9686,Tigre de Bengala,135,
+897,2022-06-15,-12.4111,13.9183,Leão Africano,106,Comportamento normal
+898,2022-06-16,23.7801,-37.437,Leão Africano,69,Alimentação observada
+899,2022-06-17,-29.2199,-17.3539,Tigre de Bengala,124,Alimentação observada
+900,2022-06-18,-24.8695,34.055,Tucano,95,
+901,2022-06-19,-17.5268,6.5072,Elefante Asiático,12,Comportamento normal
+902,2022-06-20,-28.4081,-59.3724,Leão Africano,77,Alimentação observada
+903,2022-06-21,-19.1139,31.3189,Elefante Asiático,138,
+904,2022-06-22,4.9825,-55.7626,Tucano,111,Comportamento normal
+905,2022-06-23,-4.7145,29.4881,Tucano,93,Comportamento normal
+906,2022-06-24,23.5603,-35.7023,Elefante Asiático,43,Alimentação observada
+907,2022-06-25,19.0466,54.9688,Tucano,117,Alimentação observada
+908,2022-06-26,-9.491,-15.8471,Leão Africano,32,Comportamento normal
+909,2022-06-27,-14.4346,-20.7682,Elefante Asiático,101,Comportamento normal
+910,2022-06-28,-7.2185,-42.1334,Tucano,41,Alimentação observada
+911,2022-06-29,5.4177,-23.3275,Elefante Asiático,141,Comportamento normal
+912,2022-06-30,-13.9162,45.1981,Leão Africano,86,Alimentação observada
+913,2022-07-01,7.4489,59.5601,Tucano,60,Comportamento normal
+914,2022-07-02,-5.4353,-15.8029,Leão Africano,89,Alimentação observada
+915,2022-07-03,3.1228,-6.1667,Tucano,6,
+916,2022-07-04,-3.8324,26.6485,Tigre de Bengala,62,Alimentação observada
+917,2022-07-05,-12.3321,46.3435,Tucano,111,Alimentação observada
+918,2022-07-06,26.9072,11.1653,Elefante Asiático,127,
+919,2022-07-07,15.8163,-13.0169,Tucano,172,Comportamento normal
+920,2022-07-08,-21.5932,-10.4854,Leão Africano,168,
+921,2022-07-09,22.1081,23.4742,Leão Africano,118,Alimentação observada
+922,2022-07-10,-0.7541,-59.6138,Tucano,111,Comportamento normal
+923,2022-07-11,23.6731,14.3507,Elefante Asiático,41,
+924,2022-07-12,17.9913,-17.3408,Tigre de Bengala,83,Comportamento normal
+925,2022-07-13,-4.4872,35.3037,Elefante Asiático,96,Comportamento normal
+926,2022-07-14,-28.6518,-48.8411,Tigre de Bengala,22,
+927,2022-07-15,-13.8794,10.5843,Leão Africano,102,Comportamento normal
+928,2022-07-16,2.4981,-2.2833,Elefante Asiático,67,
+929,2022-07-17,8.0087,17.0791,Tigre de Bengala,154,Alimentação observada
+930,2022-07-18,-14.5267,-52.2176,Tucano,143,Comportamento normal
+931,2022-07-19,-21.6386,9.5981,Leão Africano,8,Alimentação observada
+932,2022-07-20,20.0958,7.3782,Tucano,139,Alimentação observada
+933,2022-07-21,29.0641,7.2792,Leão Africano,65,Comportamento normal
+934,2022-07-22,1.5414,12.4185,Elefante Asiático,111,
+935,2022-07-23,-19.6992,21.1762,Elefante Asiático,58,Comportamento normal
+936,2022-07-24,-13.6616,36.5987,Leão Africano,92,Alimentação observada
+937,2022-07-25,-28.8966,-27.6215,Leão Africano,72,Alimentação observada
+938,2022-07-26,24.8579,39.0059,Leão Africano,133,
+939,2022-07-27,-22.9349,-0.2093,Elefante Asiático,59,Comportamento normal
+940,2022-07-28,4.591,-50.753,Tigre de Bengala,7,Alimentação observada
+941,2022-07-29,-13.5567,-52.9739,Tucano,170,Alimentação observada
+942,2022-07-30,3.2507,-19.8914,Tucano,125,Alimentação observada
+943,2022-07-31,9.0852,34.1876,Elefante Asiático,133,
+944,2022-08-01,19.7845,24.9217,Tucano,106,Alimentação observada
+945,2022-08-02,-17.6147,34.6338,Leão Africano,42,Alimentação observada
+946,2022-08-03,-29.3403,2.0723,Tigre de Bengala,89,Comportamento normal
+947,2022-08-04,-21.7869,-7.1761,Tucano,161,Comportamento normal
+948,2022-08-05,24.0011,-42.3057,Tigre de Bengala,137,Alimentação observada
+949,2022-08-06,22.4334,-20.6169,Leão Africano,96,Alimentação observada
+950,2022-08-07,5.8448,-7.9177,Tucano,25,Comportamento normal
+951,2022-08-08,6.031,-49.3679,Elefante Asiático,113,
+952,2022-08-09,9.9022,-33.5266,Tigre de Bengala,51,
+953,2022-08-10,-19.4777,11.787,Leão Africano,88,
+954,2022-08-11,24.8647,28.2796,Tigre de Bengala,87,
+955,2022-08-12,-4.8738,59.8017,Tucano,39,
+956,2022-08-13,-7.0117,51.9736,Tucano,73,
+957,2022-08-14,1.1351,17.1078,Elefante Asiático,133,
+958,2022-08-15,-27.182,-9.4502,Leão Africano,144,
+959,2022-08-16,-20.023,16.3413,Leão Africano,31,Comportamento normal
+960,2022-08-17,14.282,34.2782,Elefante Asiático,60,
+961,2022-08-18,-25.0321,-45.7997,Elefante Asiático,27,
+962,2022-08-19,6.1891,-10.8114,Leão Africano,157,
+963,2022-08-20,-15.2791,40.7763,Tigre de Bengala,25,Alimentação observada
+964,2022-08-21,-6.6423,-13.94,Tigre de Bengala,65,Comportamento normal
+965,2022-08-22,-12.6784,8.6247,Elefante Asiático,67,Comportamento normal
+966,2022-08-23,-8.6596,10.5323,Tigre de Bengala,126,Comportamento normal
+967,2022-08-24,13.1428,-37.8628,Leão Africano,56,
+968,2022-08-25,-12.1727,-16.5317,Tucano,92,
+969,2022-08-26,3.9843,-19.8586,Tucano,157,Alimentação observada
+970,2022-08-27,-1.437,-56.8564,Tigre de Bengala,59,Comportamento normal
+971,2022-08-28,9.8203,-57.097,Elefante Asiático,50,
+972,2022-08-29,26.2098,39.8036,Elefante Asiático,36,Comportamento normal
+973,2022-08-30,13.9543,-27.2315,Elefante Asiático,59,Alimentação observada
+974,2022-08-31,-17.1036,2.1695,Elefante Asiático,100,Alimentação observada
+975,2022-09-01,-28.129,-24.1529,Elefante Asiático,137,Alimentação observada
+976,2022-09-02,-14.2642,52.8815,Tigre de Bengala,40,Comportamento normal
+977,2022-09-03,5.7047,-28.8844,Tucano,114,
+978,2022-09-04,-26.9145,-8.4412,Tucano,110,
+979,2022-09-05,-0.218,44.7276,Tigre de Bengala,62,Alimentação observada
+980,2022-09-06,5.8106,41.032,Elefante Asiático,43,
+981,2022-09-07,-9.9454,-37.6678,Tigre de Bengala,84,Alimentação observada
+982,2022-09-08,16.2547,36.3172,Tucano,101,Comportamento normal
+983,2022-09-09,-23.6041,-5.0176,Leão Africano,117,Alimentação observada
+984,2022-09-10,-25.4917,-2.0437,Tigre de Bengala,65,Comportamento normal
+985,2022-09-11,13.6913,-43.9824,Elefante Asiático,141,Alimentação observada
+986,2022-09-12,-0.2705,-50.3278,Tucano,10,
+987,2022-09-13,11.3041,27.3527,Tucano,113,
+988,2022-09-14,-3.9104,-0.4247,Tucano,39,Alimentação observada
+989,2022-09-15,-15.2159,-7.5779,Tucano,43,
+990,2022-09-16,19.1461,27.541,Elefante Asiático,154,
+991,2022-09-17,17.965,31.8615,Leão Africano,173,
+992,2022-09-18,11.6818,-40.931,Tucano,122,Comportamento normal
+993,2022-09-19,-13.6713,13.227,Tigre de Bengala,9,
+994,2022-09-20,5.4138,-43.7575,Leão Africano,174,Comportamento normal
+995,2022-09-21,-8.3416,30.165,Tucano,91,Alimentação observada
+996,2022-09-22,-24.5051,18.8346,Leão Africano,80,
+997,2022-09-23,25.0388,54.7938,Tigre de Bengala,162,
+998,2022-09-24,-21.7909,-51.725,Tucano,61,
+999,2022-09-25,27.0142,-53.1534,Tigre de Bengala,131,Alimentação observada
+1000,2022-09-26,-3.2397,-26.1376,Elefante Asiático,33,Comportamento normal
